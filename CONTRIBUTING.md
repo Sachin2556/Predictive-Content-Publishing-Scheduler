@@ -47,7 +47,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 1. Clone the repository
 ```bash
-git clone https://github.com/sksinha2410/Predictive-Content-Publishing-Scheduler.git
+git clone https://github.com/Sachin2556/Predictive-Content-Publishing-Scheduler.git
 cd Predictive-Content-Publishing-Scheduler
 ```
 
